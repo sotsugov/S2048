@@ -311,7 +311,7 @@ hr {
     text-align: center;
     font-weight: bold;
     z-index: 10;
-    font-size: 0px; 
+    font-size: 0px;
   }
   .tile.tile-2 .tile-inner {
     background: url('../images/2.png') no-repeat center;
@@ -480,8 +480,15 @@ hr {
 
 .game-intro {
   float: left;
-  line-height: 42px;
+  line-height: 24px;
   margin-bottom: 0; }
+
+.footer {
+  float: left;
+  font-size: 12px;
+  line-height: 24px;
+  margin-bottom: 0; }
+
 
 .restart-button {
   display: inline-block;
